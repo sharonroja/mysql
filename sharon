@@ -1,0 +1,4 @@
+a subquery is a select statement that is coded with another sql statement.
+a subquery can return a single value a list of values.
+a subquery can be nested wiyh another subquery.
+a subquery can be coded or introduced any where
