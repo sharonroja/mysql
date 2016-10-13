@@ -1,0 +1,4 @@
+you can introduce a subquery with the in operator.
+IN operator to provide the list of values.
+when you use the IN operator the subquery must return a single colomn of values.
+a query that uses the NOT IN operaor with the subqwuery can typically be rested using an outer join.
